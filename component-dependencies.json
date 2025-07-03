@@ -1,0 +1,32 @@
+{
+  "name": "learning-log-card",
+  "version": "1.0.0",
+  "description": "A beautiful React component for learning log entries",
+  "main": "LearningLogCard.jsx",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "date-fns": "^2.30.0",
+    "lucide-react": "^0.400.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "typescript": "^5.0.0"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "learning",
+    "education",
+    "tracker",
+    "tailwind",
+    "typescript"
+  ],
+  "author": "Mission50LPA.dev",
+  "license": "MIT"
+}
+
